@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
+	 height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g id="E423_x2C__Comparison_x2C__pros_and_cons_x2C__test">
+	<g>
+		<g>
+			<polygon style="fill:#BEC3C7;" points="426,76 426,86 356,86 356,26 			"/>
+			<polygon style="fill:#ECF0F1;" points="426,86 426,486 86,486 86,26 356,26 356,86 			"/>
+			<g>
+				<path style="fill:#BEC3C7;" d="M266,126h60c5.522,0,10-4.477,10-10s-4.478-10-10-10h-60c-5.522,0-10,4.477-10,10
+					S260.478,126,266,126z"/>
+				<path style="fill:#BEC3C7;" d="M156,196h190c5.522,0,10-4.477,10-10s-4.478-10-10-10H156c-5.523,0-10,4.477-10,10
+					S150.477,196,156,196z"/>
+				<path style="fill:#BEC3C7;" d="M346,236H156c-5.523,0-10,4.477-10,10s4.477,10,10,10h190c5.522,0,10-4.477,10-10
+					S351.522,236,346,236z"/>
+				<path style="fill:#BEC3C7;" d="M346,296H156c-5.523,0-10,4.478-10,10s4.477,10,10,10h190c5.522,0,10-4.478,10-10
+					S351.522,296,346,296z"/>
+				<path style="fill:#BEC3C7;" d="M346,356H156c-5.523,0-10,4.478-10,10s4.477,10,10,10h190c5.522,0,10-4.478,10-10
+					S351.522,356,346,356z"/>
+				<path style="fill:#BEC3C7;" d="M346,416H156c-5.523,0-10,4.478-10,10s4.477,10,10,10h190c5.522,0,10-4.478,10-10
+					S351.522,416,346,416z"/>
+			</g>
+			<path style="fill:#EF727A;" d="M206,106h-20V86c0-5.523-4.477-10-10-10s-10,4.477-10,10v20h-20c-5.523,0-10,4.477-10,10
+				s4.477,10,10,10h20v20c0,5.523,4.477,10,10,10s10-4.477,10-10v-20h20c5.523,0,10-4.477,10-10S211.523,106,206,106z"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_1">
+</g>
+</svg>
